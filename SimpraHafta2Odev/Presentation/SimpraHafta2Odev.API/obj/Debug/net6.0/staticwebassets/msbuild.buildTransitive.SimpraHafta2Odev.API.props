@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SimpraHafta2Odev.API.props" />
+</Project>

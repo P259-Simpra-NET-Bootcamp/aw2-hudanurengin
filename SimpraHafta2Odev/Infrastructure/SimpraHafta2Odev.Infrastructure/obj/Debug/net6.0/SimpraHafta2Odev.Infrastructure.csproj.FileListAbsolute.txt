@@ -1,0 +1,17 @@
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\bin\Debug\net6.0\SimpraHafta2Odev.Infrastructure.deps.json
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\bin\Debug\net6.0\SimpraHafta2Odev.Infrastructure.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\bin\Debug\net6.0\SimpraHafta2Odev.Infrastructure.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\bin\Debug\net6.0\SimpraHafta2Odev.Application.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\bin\Debug\net6.0\SimpraHafta2Odev.Domain.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\bin\Debug\net6.0\SimpraHafta2Odev.Application.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\bin\Debug\net6.0\SimpraHafta2Odev.Domain.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.AssemblyInfo.cs
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.csproj.CopyComplete
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\refint\SimpraHafta2Odev.Infrastructure.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\SimpraHafta2Odev.Infrastructure.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Infrastructure\SimpraHafta2Odev.Infrastructure\obj\Debug\net6.0\ref\SimpraHafta2Odev.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\bin\Debug\net6.0\SimpraHafta2Odev.Application.deps.json
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\bin\Debug\net6.0\SimpraHafta2Odev.Application.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\bin\Debug\net6.0\SimpraHafta2Odev.Application.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\bin\Debug\net6.0\SimpraHafta2Odev.Domain.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\bin\Debug\net6.0\SimpraHafta2Odev.Domain.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.csproj.AssemblyReference.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.AssemblyInfoInputs.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.AssemblyInfo.cs
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.csproj.CoreCompileInputs.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.csproj.CopyComplete
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\refint\SimpraHafta2Odev.Application.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\SimpraHafta2Odev.Application.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Application\obj\Debug\net6.0\ref\SimpraHafta2Odev.Application.dll
