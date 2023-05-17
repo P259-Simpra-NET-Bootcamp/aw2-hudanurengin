@@ -40,9 +40,9 @@ namespace SimpraHafta2Odev.Application.Validators.Staffs
                     .WithMessage("Lütfen telefon numaranızı giriniz.")
                 .NotNull()
                     .WithMessage("Lütfen telefon numaranızı giriniz")
-                .MaximumLength(11)
-                .MinimumLength(11)
-                    .WithMessage("Telefon numaranızı başında sıfır bulunacak şekilde giriniz.");
+                .MaximumLength(10)
+                .MinimumLength(10)
+                    .WithMessage("Telefon numaranızı başında sıfır bulunmayacak şekilde giriniz.");
         }
     }
 }
