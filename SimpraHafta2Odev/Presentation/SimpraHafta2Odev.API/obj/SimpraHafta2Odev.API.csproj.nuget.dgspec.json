@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Presentation\\SimpraHafta2Odev.API\\SimpraHafta2Odev.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj",
+        "projectName": "SimpraHafta2Odev.Application",
+        "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Domain\\SimpraHafta2Odev.Domain.csproj": {
+                "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Domain\\SimpraHafta2Odev.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Domain\\SimpraHafta2Odev.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Domain\\SimpraHafta2Odev.Domain.csproj",
+        "projectName": "SimpraHafta2Odev.Domain",
+        "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Domain\\SimpraHafta2Odev.Domain.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Infrastructure\\SimpraHafta2Odev.Infrastructure\\SimpraHafta2Odev.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Infrastructure\\SimpraHafta2Odev.Infrastructure\\SimpraHafta2Odev.Infrastructure.csproj",
+        "projectName": "SimpraHafta2Odev.Infrastructure",
+        "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Infrastructure\\SimpraHafta2Odev.Infrastructure\\SimpraHafta2Odev.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Infrastructure\\SimpraHafta2Odev.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj": {
+                "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Presentation\\SimpraHafta2Odev.API\\SimpraHafta2Odev.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Presentation\\SimpraHafta2Odev.API\\SimpraHafta2Odev.API.csproj",
+        "projectName": "SimpraHafta2Odev.API",
+        "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Presentation\\SimpraHafta2Odev.API\\SimpraHafta2Odev.API.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Presentation\\SimpraHafta2Odev.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj": {
+                "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj"
+              },
+              "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Infrastructure\\SimpraHafta2Odev.Infrastructure\\SimpraHafta2Odev.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Infrastructure\\SimpraHafta2Odev.Infrastructure\\SimpraHafta2Odev.Infrastructure.csproj"
+              },
+              "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\SimpraHafta2Odev.Persistence\\SimpraHafta2Odev.Persistence.csproj": {
+                "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\SimpraHafta2Odev.Persistence\\SimpraHafta2Odev.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\SimpraHafta2Odev.Persistence\\SimpraHafta2Odev.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\SimpraHafta2Odev.Persistence\\SimpraHafta2Odev.Persistence.csproj",
+        "projectName": "SimpraHafta2Odev.Persistence",
+        "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\SimpraHafta2Odev.Persistence\\SimpraHafta2Odev.Persistence.csproj",
+        "packagesPath": "C:\\Users\\hudan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\SimpraHafta2Odev.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hudan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj": {
+                "projectPath": "C:\\Users\\hudan\\source\\repos\\aw2-hudanurengin\\SimpraHafta2Odev\\Core\\SimpraHafta2Odev.Application\\SimpraHafta2Odev.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

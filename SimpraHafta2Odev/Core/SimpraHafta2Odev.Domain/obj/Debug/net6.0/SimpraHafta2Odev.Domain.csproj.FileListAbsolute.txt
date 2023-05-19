@@ -1,0 +1,12 @@
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\bin\Debug\net6.0\SimpraHafta2Odev.Domain.deps.json
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\bin\Debug\net6.0\SimpraHafta2Odev.Domain.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\bin\Debug\net6.0\SimpraHafta2Odev.Domain.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\SimpraHafta2Odev.Domain.csproj.AssemblyReference.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\SimpraHafta2Odev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\SimpraHafta2Odev.Domain.AssemblyInfoInputs.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\SimpraHafta2Odev.Domain.AssemblyInfo.cs
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\SimpraHafta2Odev.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\SimpraHafta2Odev.Domain.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\refint\SimpraHafta2Odev.Domain.dll
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\SimpraHafta2Odev.Domain.pdb
+C:\Users\hudan\source\repos\aw2-hudanurengin\SimpraHafta2Odev\Core\SimpraHafta2Odev.Domain\obj\Debug\net6.0\ref\SimpraHafta2Odev.Domain.dll
