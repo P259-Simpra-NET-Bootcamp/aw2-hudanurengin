@@ -55,7 +55,7 @@ Onion Architecture </br>
 
 
 ## Entity Framework Code First</br>
-Projede veri tabanı ile bağ code first yaklaşımı ile yapılmıştır. Buradaki amaç veritabanı arazü ile etkilileşimi minimize etmektir. Entity framework
+Projede veri tabanı code first yaklaşımı ile yapılmıştır. Buradaki amaç veritabanı arayüzü ile etkileşimi minimize etmektir. Entity framework
 Code Firts yaklaşımın en büyük avantajı projedeki modele tam hakimiyetle istediğimiz şekilde kullanmaktır.</br>
 Projemde oluşturmuş olduğum Code First yaklaşımı şu şekilde;
 
