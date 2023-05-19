@@ -88,7 +88,7 @@ Kullanıcının iletişim kurduğu katmandır.
 Uyguladığım mimari şu şekilde;
 
 
-![github](onion architecture.png)
+![github](onion_architecture.png)
 
 
 
