@@ -60,11 +60,11 @@ Code Firts yaklaşımın en büyük avantajı projedeki modele tam hakimiyetle i
 Projemde oluşturmuş olduğum Code First yaklaşımı şu şekilde;
 
 ![github](staff.png)
+![github](staff2.png)
 
 
 ## Repository Desing Patern
-Veri tabanını tasarlarken bir standart üzerine oluşturmayı hedefler.Veri tabanı işlemlerini yaparken yoğun bir tekrarlama ile karşılaşmakayız.İşte bu yüzden Repository
-Desing Patern bu tekrarlama işlemlerini ortadan kaldırıp daha pratik bir şekilde bu işlemleri yapmamızı sağlamaktadır.</br>
+Veri tabanını tasarlarken bir standart üzerine oluşturmayı hedefleriz. Veri tabanı işlemlerini yaparken yoğun bir tekrarlama ile karşılaşmaktayız.İşte bu yüzden Repository Desing Patern bu tekrarlama işlemlerini ortadan kaldırıp daha pratik bir şekilde bu işlemleri yapmamızı sağlamaktadır.</br>
 Projemde oluşturmuş olduğum Repository Desing Patern şu şekilde;
 
 ![github](repo1.png)
@@ -72,10 +72,10 @@ Projemde oluşturmuş olduğum Repository Desing Patern şu şekilde;
 
 
 ## Onion Architecture 
-Klasik n katmalı mimariden farkı katmanlar arasında gevşek bir bağ mevcuttur. Bu gevşek olan bağın sağladığı fayda ileride örneğin bir veri tabanı değiştirmek istediğimiz  zaman mssqlden mongodb veritabanına  geçiş yaptığımız taktirde n katmanlı mimariye göre daha az maliyetli ve kolaydır.
+Klasik n katmalı mimariden farkı katmanlar arasında gevşek bir bağ mevcuttur. Bu gevşek olan bağın sağladığı fayda ileride örneğin bir veri tabanı değiştirmek istediğimiz  zaman mssqlden mongodb veritabanına  geçiş yaptığımız taktirde n katmanlı mimariye göre daha az maliyetli ve kolaydır. Bağımlılığın en alt seviyede olması ve anlamasının daha kolay olması ve ve ve en önemlisi SOLID prensiplerine uyduğu için bu mimariyi tercih ettim.
 ### Katmanlar
 #### Domaim Katmanı
-Etitylerle ilgili olan exceptionların tutulduğu katmandır.</br></br>
+Entitylerle ilgili olan exceptionların tutulduğu katmandır.</br></br>
 #### Core Katmanı
 Domain ile iş katmanı arasında soyutlama katmanıdır. Tüm servis arayüzleri burada tanımlanır.</br></br>
 #### Persistence Katmanı
@@ -95,7 +95,7 @@ Uyguladığım mimari şu şekilde;
 
 ##  Genel Değerlendirme 
 
-Bu haftaki eğitimde genel olarak mimari yapıları ve desing paternler üzerine göndermiş olduğunuz video serisinden bakarak uygulamaya çalıştım. Cqrs desing paternin mantığını tam karayamasamda uygulamaya çalıştım.Genel olarak verimli bir hafta oldu benim için ama ilerlemek öğrenmem gerek çok daha uzun bir zaman var önümde.Proje tam anlamıyla bitmiş değil.Karşılaştığım problemler üzerine hala çalışmaktayım.Bilgisayarımdan kaynaklı bazı hatalarım da mevcut. </br> </br>
+Verilen görev doğrultusunda her istenileni elimden geldiğince yerine getirmeye çalıştım. Veritabanımı MSSQL de oluşturup verilerimi oraya kaydettim. Bunun script.sql dosyasını indirip Mssql e kurarsanız projeyle bağlantısını sağlayabilirsiniz. Ben 2 şartlı filtreleme de isime ve şehire göre yaptım.Girdiğim verilere göre de "Ayşe" ve "Çanakkale" araması yaparsanız ismi ayşe olup çanankkalede yaşayanlar listelenecektir. Ben test ederken bu şekilde ilerledim. Umarım eksik ve ya yanlış bir şey yapmamışımdır. </br> </br>
 
 
-Teşekkürler  :smile:
+Çok Teşekkürler  :smile:
