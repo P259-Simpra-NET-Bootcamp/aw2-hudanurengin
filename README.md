@@ -64,8 +64,8 @@ Projemde oluşturmuş olduğum Code First yaklaşımı şu şekilde;
 
 
 ## Repository Desing Patern
-Veri tabanını tasarlarken bir standart üzerine oluşturmayı hedefleriz. Veri tabanı işlemlerini yaparken yoğun bir tekrarlama ile karşılaşmaktayız.İşte bu yüzden Repository Desing Patern bu tekrarlama işlemlerini ortadan kaldırıp daha pratik bir şekilde bu işlemleri yapmamızı sağlamaktadır.</br>
-Projemde oluşturmuş olduğum Repository Desing Patern şu şekilde;
+Veri tabanını tasarlarken bir standart üzerine oluşturmayı hedefleriz. Veri tabanı işlemlerini yaparken yoğun bir tekrarlama ile karşılaşmaktayız.İşte bu yüzden Repository Design Patern bu tekrarlama işlemlerini ortadan kaldırıp daha pratik bir şekilde bu işlemleri yapmamızı sağlamaktadır.</br>
+Projemde oluşturmuş olduğum Repository Design Patern şu şekilde;
 
 ![github](repo1.png)
 ![github](repo2.png)
