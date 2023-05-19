@@ -96,8 +96,9 @@ Uyguladığım mimari şu şekilde;
 ##  Genel Değerlendirme 
 
 Verilen görev doğrultusunda her istenileni elimden geldiğince yerine getirmeye çalıştım. Veritabanımı MSSQL de oluşturup verilerimi oraya kaydettim.
+![github](mssql_veritabani.png)
 
-Bunun script.sql dosyasını indirip Mssql e kurarsanız projeyle bağlantısını sağlayabilirsiniz. Ben 2 şartlı filtreleme de isime ve şehire göre yaptım.Girdiğim verilere göre de "Ayşe" ve "Çanakkale" araması yaparsanız ismi Ayşe olup Çanakkale'de yaşayanlar listelenecektir. Ben test ederken bu şekilde ilerledim. Umarım eksik ve ya yanlış bir şey yapmamışımdır. </br> </br>
+Bunu kendi bilgisayarınızda görebilmek için "script.sql" dosyasını indirip Mssql e kurarsanız projeyle bağlantısını sağlayabilirsiniz. Ben 2 şartlı filtreleme de isime ve şehire göre yaptım.Girdiğim verilere göre de "Ayşe" ve "Çanakkale" araması yaparsanız ismi Ayşe olup Çanakkale'de yaşayanlar listelenecektir. Ben test ederken bu şekilde ilerledim. Umarım eksik ve ya yanlış bir şey yapmamışımdır. </br> </br>
 
 
 Çok Teşekkürler  :smile:
