@@ -50,7 +50,7 @@ Email alanini unique olmalidir.
 MSSQL</br>
 Swagger UI </br>
 Entity Framework Code First </br>
-Repository Desing Pattern </br>
+Repository Design Pattern </br>
 Onion Architecture </br>
 
 
